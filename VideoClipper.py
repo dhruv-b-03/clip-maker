@@ -57,7 +57,7 @@ root= Tk()
 folder_path = StringVar()
 file_path= StringVar()
 root.title("The Ultimate Video Clip Maker")
-root.iconbitmap(r"C:\Users\A1PHA\Downloads\NextLevel Logo1.ico")
+root.iconbitmap(r".\img\icon.ico")
 root.geometry("850x400")
 
 click= StringVar(root, "3")
